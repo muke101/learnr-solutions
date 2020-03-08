@@ -8,13 +8,13 @@ Solutions to the Learnr workshop exercises. Corrosponding questions are below, a
 
 4. `In the above exercise, what happens when you change the value of your variable with holds 2 to 3?`
 
-5. `Write an if statement which is true if the remainder of 10 divided by 5 is 0. (hint: you can usethe ‘modulus’ operator, the % symbol, to find the reminder of a division. ie: 2 % 1 = 0, 3 % 2 =1).`
+5. `Write an if statement which is true if the remainder of 10 divided by 5 is 0. (hint: you can use the ‘modulus’ operator, the % symbol, to find the reminder of a division. ie: 2 % 1 = 0, 3 % 2 =1).`
 
 6. `Write a while loop which counts to 100, printing out each number as it goes along.`
 
 7. `Using the ‘range’ function, rewrite the above exercise using a for loop.`
 
-8. `Using either a for loop or a while loop, create an empty list and add all the odd numbers to it asyour loop counts to 100. Print the list after the loop is complete. (You may want to use the modulus operator again)`
+8. `Using either a for loop or a while loop, create an empty list and add all the odd numbers to it as your loop counts to 100. Print the list after the loop is complete. (You may want to use the modulus operator again)`
 
 9. `Do the above exercise, but use an if statement using a modulus operator to only add the oddnumber to the list if it is a multiple of 3. (hint: you can combine condition checks in the same if statement using ‘and’ and ‘or’ keywords!)`
 
@@ -24,7 +24,7 @@ Solutions to the Learnr workshop exercises. Corrosponding questions are below, a
 
 12. `Do the above exercise but print out each number besides the ‘fizz’, ‘buzz’, or ‘fizzbuzz’ that was found to be a multiple of 3, 5 or both.`
 
-13. `Take your list of odd numbers between 1 and 100 from earlier. Remove every other element from the list after it has had all the odd numbers added to it. (example: [1,3,5,7] would go to [1,5]).`
+13. `Take your whole list of odd numbers from earlier and remove every element that is a multiple of 5`
 
 14. `Take this list and print only the first 5 numbers without changing the list (hint: use list slices)`
 
