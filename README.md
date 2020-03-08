@@ -38,7 +38,7 @@ Solutions to the Learnr workshop exercises. Corrosponding questions are below, a
 
 19. `Write a function which *returns* a number you give it multiplied by itself. Call this function ‘square’.`
 
-20. `Write a function which prints ‘true’ if a number you give it is even, and false if it is odd. What should this function be called?`
+20. `Write a function which returns ‘true’ if a number you give it is even, and false if it is odd. What should this function be called?`
 
 21. `Rewrite your fizzbuzz loop inside a function, and have the number it counts to (previously 100) be controlled by an argument you pass to the function.`
 
