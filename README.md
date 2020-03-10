@@ -1,4 +1,4 @@
-Solutions to the Learnr workshop exercises. Corrosponding questions are below, all written by Luke Panayi.
+Solutions to the Learnr workshop exercises. Corresponding questions are below, all written by Luke Panayi.
 
 1. `Write an if statement with the condition that 10 divided by 5 is equal to 2. Have your program then print ‘true!’ when this is seen to be true.`
 
@@ -16,7 +16,7 @@ Solutions to the Learnr workshop exercises. Corrosponding questions are below, a
 
 8. `Using either a for loop or a while loop, create an empty list and add all the odd numbers to it as your loop counts to 100. Print the list after the loop is complete. (You may want to use the modulus operator again)`
 
-9. `Do the above exercise, but use an if statement using a modulus operator to only add the oddnumber to the list if it is a multiple of 3. (hint: you can combine condition checks in the same if statement using ‘and’ and ‘or’ keywords!)`
+9. `Do the above exercise, but use an if statement using a modulus operator to only add the odd number to the list if it is a multiple of 3. (hint: you can combine condition checks in the same if statement using ‘and’ and ‘or’ keywords!)`
 
 10. `Do the above exercise, but only add the odd number when it is *not* a multiple of 3.`
 
@@ -42,7 +42,7 @@ Solutions to the Learnr workshop exercises. Corrosponding questions are below, a
 
 21. `Rewrite your fizzbuzz loop inside a function, and have the number it counts to (previously 100) be controlled by an argument you pass to the function.`
 
-22. `Write the parts of your fizzbuzz loops which check if a number if a multiple of 3, 5 or both as three separate functions which return true or false (return, not print). Use these functions in the if statements of your fizzbuzz function.`
+22. `Write the parts of your fizzbuzz loops which check if a number is a multiple of 3, 5 or both as three separate functions which return true or false (return, not print). Use these functions in the if statements of your fizzbuzz function.`
 
 23. `Write a function which takes a number of returns it’s factorial using a for loop. (A factorial is every integer before a given integer up to 1 multiplied together, so for example the factorial of 5 would be 5*4*3*2*1=120)`
 
