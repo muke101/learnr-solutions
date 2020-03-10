@@ -1,4 +1,5 @@
-Solutions to the Learnr workshop exercises. Corresponding questions are below, all written by Luke Panayi.
+# READ ME
+Please see below for a list of questions to test your programming skills!Corresponding solutions are in the folder above. All solutions are written by Luke Panayi.
 
 1. `Write an if statement with the condition that 10 divided by 5 is equal to 2. Have your program then print ‘true!’ when this is seen to be true.`
 
