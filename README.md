@@ -48,3 +48,5 @@ Please see below for a list of questions to test your programming skills! Corres
 23. `Write a function which takes a number of returns it’s factorial using a for loop. (A factorial is every integer before a given integer up to 1 multiplied together, so for example the factorial of 5 would be 5*4*3*2*1=120)`
 
 24. `Write the same function again, but instead of using a for loop, try and have the function call itself each time. So, factorial 5 would go to 5*(factorial 4), to 5*4*(factorial 3) and so on. Have the original function call return at the end the total value. (this is a hard exercise, don’t be afraid to look for help online!)`
+
+25. `Using the data provided (see "5 Day Moving Average Exercise.csv") please calculate the 5 day moving average for each of the companies, based on your calculations, rank each firm based on their average.`
